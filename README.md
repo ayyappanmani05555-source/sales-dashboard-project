@@ -39,7 +39,22 @@ Highlighted key drivers of customer churn.
 Generated recommendations to improve retention.
 
 ## Dashboard Interaction
-- <a href="
+- <a href="https://github.com/ayyappanmani05555-source/sales-dashboard-project/blob/main/AYYAPPAN%20%2CM%20SALES%20DASHBOARD.csv.pbix">view dashboard</a>
+
+## Project Insights
+Customers with shorter tenure are more likely to churn than long-term customers.
+Month-to-month contract customers exhibit higher churn rates compared to long-term contract holders.
+Higher numbers of support calls and complaints are strongly associated with customer churn.
+Customers with higher monthly charges tend to show increased churn risk.
+Certain payment methods demonstrate better customer retention rates.
+Customer satisfaction and service quality play a significant role in reducing churn.
+Long-term customers contribute significantly to overall business stability and revenue.
+
+## Final Conclusion
+
+The Customer Churn Prediction Dashboard provides a comprehensive view of customer behavior, retention, and churn patterns. By combining Excel for data preparation and Power BI for advanced analytics and visualization, the dashboard enables businesses to identify at-risk customers and implement targeted retention strategies.
+
+The analysis reveals that customer tenure, contract type, service experience, and billing factors significantly influence churn behavior. These insights help organizations improve customer satisfaction, enhance service quality, and reduce customer loss.
 
 
 
