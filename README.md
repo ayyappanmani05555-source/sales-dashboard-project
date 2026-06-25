@@ -1,2 +1,10 @@
 # sales-dashboard-project
-The Sales Dashboard is an interactive Business Intelligence solution designed to monitor sales performance, track revenue growth, analyze profitability, and provide actionable insights for business decision-making. This project leverages Microsoft Excel for data preparation and Power BI for data visualization
+## Project Objective
+Monitor overall sales performance and revenue trends.
+Analyze product and regional sales performance.
+Track profit margins and business growth.
+Identify top-performing sales representatives and products.
+Support data-driven decision-making through interactive reporting.
+
+## Dataset used
+- <a href=
