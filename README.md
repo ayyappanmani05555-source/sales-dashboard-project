@@ -8,3 +8,43 @@ Support data-driven decision-making through interactive reporting.
 
 ## Dataset used
 - <a href="https://github.com/ayyappanmani05555-source/sales-dashboard-project/blob/main/sales.csv.xlsx">Dataset</a>
+
+## Process
+1. Data Collection
+Gathered customer subscription and service data.
+Collected customer demographics, billing, and service usage information.
+2. Data Cleaning and Preparation (Excel)
+Removed duplicate records.
+Handled missing values and inconsistencies.
+Standardized data formats.
+Verified data accuracy and completeness.
+3. Data Import into Power BI
+Loaded the cleaned dataset into Power BI.
+Configured data types and relationships.
+Prepared the model for analysis.
+4. Data Modeling
+Created calculated columns and measures using DAX.
+Developed KPIs for churn analysis and customer retention.
+5. Dashboard Development
+Designed interactive visualizations and reports.
+Implemented slicers and filters for dynamic exploration.
+Created charts to analyze customer behavior and churn trends.
+6. Data Analysis
+Examined churn patterns across customer segments.
+Analyzed customer tenure and service usage.
+Evaluated complaint and support call impacts on churn.
+7. Insight Generation
+Identified high-risk customer groups.
+Highlighted key drivers of customer churn.
+Generated recommendations to improve retention.
+
+## Dashboard Interaction
+- <a href="
+
+
+
+
+
+
+
+
