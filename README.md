@@ -9,6 +9,47 @@ Support data-driven decision-making through interactive reporting.
 ## Dataset used
 - <a href="https://github.com/ayyappanmani05555-source/sales-dashboard-project/blob/main/sales.csv.xlsx">Dataset</a>
 
+## Question KPIs
+What is the total sales generated?
+
+What is the total profit earned?
+
+What is the average profit per transaction?
+
+How many units were sold in total?
+
+What is the total unit price?
+
+What is the total cost of goods sold (COGS)?
+
+How many cost-of-goods transactions are recorded?
+
+Which month recorded the highest total sales?
+
+Which month generated the highest profit?
+
+Which product has the highest total sales?
+
+Which product has the lowest total sales?
+
+Which region contributes the highest total sales?
+
+Which region contributes the lowest total sales?
+
+On which day was the highest sales achieved?
+
+On which day was the lowest sales recorded?
+
+How does profit compare with total sales across months?
+
+How does product performance vary by total sales?
+
+How does sales distribution differ across regions?
+
+How do salesperson and quarter filters affect the KPI values?
+
+What business insights can be drawn from the dashboard KPIs?
+
 ## Process
 1. Data Collection
 Gathered customer subscription and service data.
